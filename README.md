@@ -236,12 +236,15 @@ public class VendingMachine extends JFrame{
 실행 화면입니다.
 
 타이틀
+
 ![자판기](https://blogfiles.pstatic.net/MjAyMDA0MjZfMTkg/MDAxNTg3ODg2NTcxMDQw.oMFyyfjBvrA4QY1p21IqtzYp4sgdJopebE3aLs9YqMYg.DWBVkX7rNgrtAjfP6la4J-7hhmt9zj2gNaHbk3kXsO8g.JPEG.my980127/%EC%B2%AB%ED%99%94%EB%A9%B4.jpg)
 
 금액 투입
+
 ![금액 투입](https://blogfiles.pstatic.net/MjAyMDA0MjZfNTYg/MDAxNTg3ODg2NTcwMzcx.k2M6N_Pxjsu7nCXwtYieh_BQwIKl4pNj_V7yJTtG1acg.VHxk5ChQOBPAXx3QlP3fS4uEBSRN-RPhPZOIh0AOe-Yg.JPEG.my980127/%EA%B8%88%EC%95%A1%ED%88%AC%EC%9E%85.jpg?type=w3)
 
 메뉴 선택 후..
 
 잔돈 반환
+
 ![잔돈 반환](https://blogfiles.pstatic.net/MjAyMDA0MjZfNTYg/MDAxNTg3ODg2NTcwNzM3.tu6I4IzIECrsdfr10hBFkgfHkTPRcE-TSBPU5SPEgmEg.E8LtB6JJYaHHXEhODrYMmtUHwmqxVBob2vjv2YaGY8wg.JPEG.my980127/%EC%9E%94%EB%8F%88%EB%B0%98%ED%99%98.jpg)
