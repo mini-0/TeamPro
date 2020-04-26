@@ -235,9 +235,9 @@ public class VendingMachine extends JFrame{
 
 실행 화면입니다.
 
-![자판기](/첫화면.jpg)
-![금액 투입](/금액투입.jpg)
+![자판기](file:///C:/Users/%EC%9E%A5%EB%AF%BC%EC%98%81/my-awesome-site/assets/%EC%B2%AB%ED%99%94%EB%A9%B4.jpg)
+![금액 투입](file:///C:/Users/%EC%9E%A5%EB%AF%BC%EC%98%81/my-awesome-site/assets/%EA%B8%88%EC%95%A1%ED%88%AC%EC%9E%85.jpg)
 
 메뉴 선택 후..
 
-![잔돈 반환](/잔돈반환.jpg)
+![잔돈 반환](file:///C:/Users/%EC%9E%A5%EB%AF%BC%EC%98%81/my-awesome-site/assets/%EC%9E%94%EB%8F%88%EB%B0%98%ED%99%98.jpg)
